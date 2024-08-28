@@ -1,1 +1,1 @@
-# TV White Space (TVWS) Channel Avaliablity Sacanner 
+# TVWS Channel Avaliablity Sacanner 

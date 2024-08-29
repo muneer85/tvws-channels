@@ -1,1 +1,1 @@
-# TVWS Channel Availability GUI Scanner 
+# TVWS Channel Scanner 

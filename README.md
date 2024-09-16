@@ -1,1 +1,1 @@
-# TVWS Channel Scanner 
+# Universal TVWS Channel Scanner 

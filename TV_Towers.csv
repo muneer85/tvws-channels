@@ -1,0 +1,6 @@
+bs_no,lat_dec,long_dec,erp,site_name,tv_chan,freq,station_class,emi_cls,hgt_agl,ctry
+1,23.91666667,42.93333333,39.81069991,A ,23,514,BC,a,70,KSA
+2,19.65,41.9,10,B,20,554,BC,d,80,KSA
+3,26,48,10,C,41,634,BC,a,100,KSA
+4,29.81666667,39.83333333,1,D,15,498,BT,a,60,KSA
+5,21.9,42.03333333,63.09569987,E,14,514,BT,d,50,KSA

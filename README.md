@@ -3,7 +3,6 @@ A generalized and flexible universal graphical user interface (GUI) tool to eval
 
 For details on how to install and use the tool, users can refer to the following report. If you use this tool in your work, please cite the following article:
 
-Muneer AlZuBi, Mohamed-Slim Alouini. Universal Scanning GUI Tool for Available and Usable TV White Space (TVWS) Spectrum. TechRxiv.
-https://www.techrxiv.org/users/858455/articles/1242059
-
+Muneer AlZuBi, Mohamed-Slim Alouini. Universal Scanning GUI Tool for Available and Usable TV White Space (TVWS) Spectrum. TechRxiv. November 21, 2024.
+https://doi.org/10.36227/techrxiv.173220647.78795051/v1
  
